@@ -1,1 +1,1 @@
-# paddy
+Kaggle Paddy Doctor competition stuff.
